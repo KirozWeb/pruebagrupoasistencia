@@ -1,0 +1,70 @@
+body{
+    background-color:rgb(236, 222, 222);
+}
+h1{
+    text-align: center;
+}
+a { color: white }
+#formRegistroUsuario{
+    
+    width: 400px;
+    height: 700px;
+    background-color: rgb(54, 50, 50);
+    margin: 0 auto;
+    padding: 10px;
+    color:aliceblue;    
+}
+#formSesionUsuario{    
+    width: 400px;
+    height: 200px;
+    background-color: rgb(54, 50, 50);
+    margin: 0 auto;
+    padding: 10px;
+    color:aliceblue;    
+}
+#div1{ 
+    margin-top: 300px;   
+    width: 400px;
+    height: 200px;
+    background-color: rgb(54, 50, 50);
+    margin: 0 auto;
+    padding: 10px;
+    color:aliceblue;
+    display: block;    
+}
+#btnform{
+    background-color: red;
+}
+input:not([type="checkbox"]){
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 350px;
+    height: 45px;
+    border:0;
+}
+button{
+    background-color: blue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 355px;
+    height: 45px;
+    border-radius: 0%;
+    border:0;
+}
+select{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 355px;
+    height: 45px;
+    border-radius: 0%;
+}
+.casilla{
+    padding: 10px;    
+}
+.casilla1{
+    display: block;
+    width:250px;
+}
+#condiciones{
+    display: block;
+}
